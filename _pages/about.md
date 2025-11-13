@@ -20,8 +20,8 @@ models, representation learning, and multi-modal learning (including language).
 
 ## Experience
 
-### Shanghai Jiao Tong University - Intelligent Robotics and Machine Vision Lab
-*Undergraduate Research Intern – Supervisor: Prof. He-Sheng Wang*
+### Shanghai Jiao Tong University - [Intelligent Robotics and Machine Vision Lab](https://irmv.sjtu.edu.cn/)
+*Undergraduate Research Intern – Supervisor: Prof. [He-Sheng Wang](https://irmv.sjtu.edu.cn/wanghesheng)*
 
 *2024.7 – 2025.11*
 
@@ -35,5 +35,5 @@ models, representation learning, and multi-modal learning (including language).
 
 Jiuming Liu\*, **Zheng Huang\***, Mengmeng Liu, Tianchen Deng, Francesco Nex, Hao Cheng, Hesheng Wang
 
-*IROS, 2025*.
+*IROS, 2025*. [[ArXiv:2507.22454]](https://arxiv.org/abs/2507.22454)
 
