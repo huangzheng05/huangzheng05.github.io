@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "huangzheng05.png"
+  avatar           : "huangzheng05.jpg"
   name             : "Zheng Huang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Researcher in AI/Computer Vision at Shanghai Jiao Tong University (SJTU)."
