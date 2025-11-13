@@ -20,17 +20,20 @@ models, representation learning, and multi-modal learning (including language).
 
 ## Experience
 
-<span style="float: right; font-weight: bold; font-family: sans-serif;">2024.7 – 2025.11</span>
 ### Shanghai Jiao Tong University - Intelligent Robotics and Machine Vision Lab
 *Undergraduate Research Intern – Supervisor: Prof. He-Sheng Wang*
+
+*2024.7 – 2025.11*
 
 * Build diffusion models for LiDAR point cloud generation
 * Experiment on incorporating auto-regressive diffusion pattern into efficient point cloud generation
 * Experiment on leveraging scene flow for improved dynamic scenes reconstruction
 
-<br style="clear: both;" /> ## Publication
+## Publication
 
 **TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation**
+
 Jiuming Liu*, **Zheng Huang***, Mengmeng Liu, Tianchen Deng, Francesco Nex, Hao Cheng, Hesheng Wang
+
 *IROS, 2025*.
 
