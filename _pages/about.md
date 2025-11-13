@@ -33,7 +33,7 @@ models, representation learning, and multi-modal learning (including language).
 
 **TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation**
 
-Jiuming Liu*, **Zheng Huang***, Mengmeng Liu, Tianchen Deng, Francesco Nex, Hao Cheng, Hesheng Wang
+Jiuming Liu\*, **Zheng Huang\***, Mengmeng Liu, Tianchen Deng, Francesco Nex, Hao Cheng, Hesheng Wang
 
 *IROS, 2025*.
 
