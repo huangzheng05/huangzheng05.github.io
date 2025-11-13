@@ -1,25 +1,30 @@
-{% include base_path %}
+<footer>
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}
-</div>
+    <div class="left-column" style="flex: 1; min-width: 300px; margin-right: 20px;">
+
+      <div class="page__footer-follow">
+        <ul class="visible-links">
+          <li class="masthead__menu-item">
+            <a href="https://github.com/{{ site.footer.links[0].username }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> {{ site.footer.links[0].label | default: "GitHub" }}</a>
+          </li>
+          {% if site.feed.path %}
+            <li class="masthead__menu-item">
+              <a href="{{ site.feed.path | relative_url }}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed | default: "Feed" }}</a>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="page__footer-copyright">
+        &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+        <br>
+        Site last updated {{ site.time | date: "%Y-%m-%d" }}
+      </div>
+
+    </div> <div class="right-column" style="min-width: 300px; margin-top: 10px;">
+
+      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=PAX_ygfaIzzI2tzr3tEFgzgReAaH34dWhijqDAK15aY&cl=ffffff&w=300"></script>
+
+    </div> </div> </footer>
