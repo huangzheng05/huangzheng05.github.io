@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About me
-Currently, I am a a junior undergraduate student at Shanghai Jiao Tong University (SJTU). My research focuses on computer vision and robotics, with a current emphasis on developing techniques for autonomous
+Currently, I am a a junior undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (SJTU). My research focuses on computer vision and robotics, with a current emphasis on developing techniques for autonomous
 driving. I am particularly interested in modeling the dynamic 3D world, leveraging my background in deep generative
 models, representation learning, and multi-modal learning (including language).
 
