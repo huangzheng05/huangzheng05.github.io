@@ -20,25 +20,17 @@ models, representation learning, and multi-modal learning (including language).
 
 ## Experience
 
+<span style="float: right; font-weight: bold; font-family: sans-serif;">2024.7 – 2025.11</span>
 ### Shanghai Jiao Tong University - Intelligent Robotics and Machine Vision Lab
 *Undergraduate Research Intern – Supervisor: Prof. He-Sheng Wang*
-*2024.7 – 2025.11*
 
 * Build diffusion models for LiDAR point cloud generation
 * Experiment on incorporating auto-regressive diffusion pattern into efficient point cloud generation
 * Experiment on leveraging scene flow for improved dynamic scenes reconstruction
 
-### Machine Learning-Based Prediction of Energy Consumption and Carbon Emissions
-*Project for the 45th Participating Research Program (PRP), SJTU*
-*2024.2 – 2024.7*
-
-* Responsible for data processing and extraction from raw spreadsheets using Python (OpenPyXL) and conducted correlation analysis using SPSS
-* Performed Principal Component Analysis (PCA), dimensionality reduction, and data whitening using Python (NumPy)
-* Developed a Multi-Layer Perceptron (MLP) using PyTorch for regression prediction of enterprise energy consumption and carbon emissions
-
-## Publication
+<br style="clear: both;" /> ## Publication
 
 **TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation**
 Jiuming Liu*, **Zheng Huang***, Mengmeng Liu, Tianchen Deng, Francesco Nex, Hao Cheng, Hesheng Wang
-*IROS, 2025*. [ArXiv:2507.22454]
+*IROS, 2025*.
 
