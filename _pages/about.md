@@ -17,6 +17,7 @@ models, representation learning, and multi-modal learning (including language).
 ## Education
 
 - 2023.9-present, Bachelor of Smart Energy, Shanghai Jiao Tong University
+- 2020.9-2023.6, High School, The Affiliated High School of South China Normal University <img src="https://www.hsfz.net.cn/homepage/images/bottomsn.jpg" alt="SCSNU Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
 
 ## Experience
 
