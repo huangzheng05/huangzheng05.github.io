@@ -29,6 +29,7 @@ models, representation learning, and multi-modal learning (including language).
 * Build diffusion models for LiDAR point cloud generation
 * Experiment on incorporating auto-regressive diffusion pattern into efficient point cloud generation
 * Experiment on leveraging scene flow for improved dynamic scenes reconstruction
+* Contribute to the experimental validation of [DifFlow3D-Extension](https://github.com/IRMVLab/DifFlow3D-Extension), a state-of-the-art 3D scene flow estimation method
 
 ## Publication
 
